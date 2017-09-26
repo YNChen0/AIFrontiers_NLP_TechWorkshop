@@ -1,4 +1,4 @@
-# BigDataConf_NLP_Tech_Workshop
+# AIFrontiers_NLP_TechWorkshop
 These files would be used as part of tech workshop on NLP.
 
 If you are an attendee of the workshop, here is what you need to do before you come for the session:
