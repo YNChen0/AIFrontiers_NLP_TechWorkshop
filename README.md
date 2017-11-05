@@ -6,7 +6,8 @@ If you are an attendee of the workshop, here is what you need to do before you c
 (a) Download all the files in this repository into a separate directory
 (b) If you do not have python installed in your machine, download any free online python IDE. I have used PyCharm Community edition (2016.3) (https://www.jetbrains.com/pycharm/download/previous.html).
 (c) Please download nltk and download all the text corpora available at http://www.nltk.org/ (i.e. run the following two commands using a ipyhon notebook: (a) import nltk (b) nltk.download()  ) 
-(d) Also install the following packages from online free resources:  In my experience anaconda (https://www.continuum.io/downloads) is a good package manager that MAY serve all your needs. Check that you have installed the packages correctly: Numpy, Pandas, Tensorflow, Keras
+(d) Also install the following packages from online free resources: Numpy, Pandas, Tensorflow, Keras. 
+In my experience anaconda (https://www.continuum.io/downloads) is a good package manager that MAY serve all your needs. Check that you have installed the packages correctly. 
 
 
 I am excited for the workshop. The immense popularity of NLP and immense number of use cases that could be solved gives problem-solvers like you an adrenalin rush.
