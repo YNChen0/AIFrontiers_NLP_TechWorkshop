@@ -16,4 +16,4 @@ NOTE, NOTE, NOTE: Though I do not intend to change the contents of the repo, I w
 
 
 
-CHANGES-POST-1NOV2017: ------
+CHANGES-POST-1NOV2017: (a) Added a link to download PyCharm Community edition (2016.3)
